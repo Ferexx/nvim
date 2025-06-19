@@ -243,4 +243,4 @@ local sweetfusion = {
 	},
 }
 
-return { rosepine }
+return { catppuccin }
